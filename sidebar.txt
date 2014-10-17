@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suq:home|Door43 (suq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suq|d43-suq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suq/archive/master.zip|d43-suq.zip]]
+
+**Recent Changes**
+{{changes>ns = suq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suq|Ethnologue data]]
+
